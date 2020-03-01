@@ -5,3 +5,7 @@ To install Jupyter Notebook
 
 Run the following command in the current repository
 `python -m jupyterlab`
+
+## Runnning Slides
+
+To run slides in Intellij/PyCharm please install the plugin `Slides Presenter`
