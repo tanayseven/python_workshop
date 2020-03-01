@@ -17,10 +17,10 @@ def test_adding_items_to_list_increases_its_size():
 
 def test_adding_items_to_list_get_ids_assigned_in_sequence():
     list_ = create_new_list()
-
     add_to_list(list_, 'Prepare for the coding test')
     add_to_list(list_, 'Buy milk')
     add_to_list(list_, 'Doctor\'s appointment')
+
     id_1 = get_id_for(list_, 'Prepare for the coding test')
     id_2 = get_id_for(list_, 'Buy milk')
     id_3 = get_id_for(list_, 'Doctor\'s appointment')
