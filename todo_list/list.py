@@ -1,4 +1,4 @@
-from typing import List, Dict, Union
+from typing import Dict, Union
 
 
 def create_new_list() -> Dict:
