@@ -1,0 +1,5 @@
+slides/00-intro-python-a-deep-dive.png
+
+poetry.lock
+pyproject.toml
+README.md
